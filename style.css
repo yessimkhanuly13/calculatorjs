@@ -7,6 +7,7 @@ body{
     display: flex;
     flex-direction: column;
     align-items: center;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSClrS8o6nnwRIHdv293Mdlav5IZ8uEhGRgiUGV4yfQ6g&s);
 }
 
 .container{
